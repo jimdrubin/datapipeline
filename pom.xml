@@ -12,7 +12,7 @@
 	<artifactId>statedata</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>statedata</name>
-	<description>Data for each state</description>
+	<description>Data for each state county or district</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
